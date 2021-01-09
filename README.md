@@ -1,8 +1,8 @@
-### Hi there 👋
 <!--
 **ouseqqam/ouseqqam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-42NETWORK STATS
-
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=ouseqqam)](https://github.com/ouseqqam/1337-readme)
 
-GITHUB STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=ouseqqam" />
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ouseqqam)](https://github.com/ouseqqam/github-readme-stats)
