@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+42NETWORK STATS
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=ouseqqam)](https://github.com/mohouyizme/1337-readme)
-
+GITHUB STATS
 <img src="https://github-readme-stats.vercel.app/api?username=ouseqqam" />
 
