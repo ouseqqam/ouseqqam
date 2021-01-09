@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 <img src="https://1337-readme.vercel.app/api/profile?cursus=42&login=ouseqqam" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ouseqqam)](https://github.com/ouseqqam/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ouseqqam" />
+
+
