@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div>
+
 <img src="https://1337-readme.vercel.app/api/profile?cursus=42&login=ouseqqam" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ouseqqam" />
-
-</div>
