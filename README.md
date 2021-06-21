@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 <img src="https://1337-readme.vercel.app/api/profile?cursus=42&login=ouseqqam" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ouseqqam" />
-
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
