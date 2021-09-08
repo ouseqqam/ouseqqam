@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <img src="https://1337-readme.vercel.app/api/profile?cursus=42&login=ouseqqam" />  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouseqqam&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats).  <img src="https://github-readme-stats.vercel.app/api?username=ouseqqam" />     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouseqqam&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats).
 
 <img src="https://hihello.me/p/89bdd115-3619-439d-a5bc-74a2e2c44f66" />
