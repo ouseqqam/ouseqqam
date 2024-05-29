@@ -60,4 +60,3 @@ Let's connect and create something amazing together!
 
 ---
 
-Feel free to customize this template further to best suit your profile and preferences.
