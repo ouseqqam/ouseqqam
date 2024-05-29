@@ -1,7 +1,3 @@
-Certainly! Here is a sample README for Oussama SEQQAM's GitHub profile:
-
----
-
 # Oussama SEQQAM
 
 👋 Hi there! I'm Oussama SEQQAM, a FullStack Developer based in Casablanca, Morocco. I specialize in creating dynamic and responsive web and mobile applications using modern frameworks and technologies. Welcome to my GitHub profile!
