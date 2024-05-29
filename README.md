@@ -3,7 +3,7 @@
 
 I am a Front End Developer specializing in creating dynamic and responsive web and mobile applications. Proficient in React, React Native, and other modern frameworks. Adept at collaborating with cross-functional teams to deliver high-quality products and solutions.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react, next, react native)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react, nextjs)](https://skillicons.dev)
 
 
 
