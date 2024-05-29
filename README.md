@@ -6,7 +6,7 @@
 
 - 📍 **Location:** Casablanca, Morocco
 - 🎓 **Education:**
-  - Digital Architect from 1337 - um6p (2019 – 2023)
+  - Digital Architect from 1337 (42 Network) - um6p (2019 – 2023)
   - Licence degree in Maths and Computer Science from Sultane Moulay Slimane University (2016 – 2020)
 - 🌐 **Languages:**
   - Arabic (Native/Bilingual)
