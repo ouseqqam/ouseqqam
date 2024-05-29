@@ -1,6 +1,6 @@
 # Oussama SEQQAM
 
-👋 Hi there! I'm Oussama SEQQAM, a FullStack Developer based in Casablanca, Morocco. I specialize in creating dynamic and responsive web and mobile applications using modern frameworks and technologies. Welcome to my GitHub profile!
+👋 Hi there! I'm Oussama SEQQAM, a Frontend Developer. I specialize in creating dynamic and responsive web and mobile applications using modern frameworks and technologies. Welcome to my GitHub profile!
 
 ## About Me
 
